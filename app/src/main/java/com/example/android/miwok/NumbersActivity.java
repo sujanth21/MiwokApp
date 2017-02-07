@@ -1,12 +1,17 @@
 package com.example.android.miwok;
 
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
 import java.util.ArrayList;
 
 public class NumbersActivity extends AppCompatActivity {
+
+    private MediaPlayer mediaPlayer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +35,14 @@ public class NumbersActivity extends AppCompatActivity {
 
         ListView listView = (ListView) findViewById(R.id.activity_numbers_list);
         listView.setAdapter(itemsAdapter);
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                mediaPlayer = MediaPlayer.create(NumbersActivity.this, R.raw.number_one);
+                mediaPlayer.start();
+            }
+        });
 
     }
 }

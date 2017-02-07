@@ -50,6 +50,7 @@ public class WordAdapter extends ArrayAdapter<Word> {
             imageView.setVisibility(View.GONE);
         }
 
+
         View textContainer = listItemView.findViewById(R.id.text_container);
 
         int color = ContextCompat.getColor(getContext(), mColorResourceID);
@@ -58,4 +59,5 @@ public class WordAdapter extends ArrayAdapter<Word> {
 
         return listItemView;
     }
+
 }

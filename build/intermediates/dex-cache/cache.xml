@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="41e04f73cdfd08e687290286bbc77d08f9217ca3">
+        sha1="a71c213387803332cc7e7d2a724b7d20c9f0983b">
         <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6f096143a6b924af30feb51432ad3e052e694548\classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="cb74e1752fd94b937e28101f0ed020895826503e">
+        sha1="1fdb4df15966981838d27bbd4888557fb42ac147">
         <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9e5f0e73f2ea88bff2eed8131866be7470638c76\classes.dex" />
     </item>
     <item
