@@ -30,13 +30,17 @@
             </intent-filter>
         </activity>
         <activity android:name=".NumbersActivity"
-            android:label="@string/numbers_activity_name"/>
+            android:label="@string/numbers_activity_name"
+            android:parentActivityName=".MainActivity"/>
         <activity android:name=".PhraseActivity"
-            android:label="@string/phrase_activity_name"/>
+            android:label="@string/phrase_activity_name"
+            android:parentActivityName=".MainActivity"/>
         <activity android:name=".FamilyMembersActivity"
-            android:label="@string/family_members_activity_name"/>
+            android:label="@string/family_members_activity_name"
+            android:parentActivityName=".MainActivity"/>
         <activity android:name=".ColorsActivity"
-            android:label="@string/colors_activity_name"></activity>
+            android:label="@string/colors_activity_name"
+            android:parentActivityName=".MainActivity"></activity>
     </application>
 
 </manifest>

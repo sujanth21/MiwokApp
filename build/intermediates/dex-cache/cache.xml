@@ -3,39 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_d5986b8967b46fc54554d71765739c164b40504f\classes.dex" />
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_ef7f558cb87b7e4c208dab4e767a00196861cfb0\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_1a6c86cffb30e528f3a1e2bfbd9392f81570d41d\classes.dex" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5f92e85e516a3d42994b313dfada1a26292894cf\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_4855d490397ad45272ff085ddab2569a90bff8fb\classes.dex" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_ddafe8cbcb4eefa05e862ea2dea9fbbd6621a964\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_343b1d54f0f87b81ddb4f112441c25e00e08d49b\classes.dex" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_5201c355924407a684157809c9721c014b181ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_141208b2f937e8c7f49eb2876020497610cbe32a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -43,8 +52,17 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="f360554f31e9b5d5af4b2d409d24cb04d53795b6">
+        sha1="8a02961d8f0133d924c38398ac395b4a1bb4b828">
         <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6f096143a6b924af30feb51432ad3e052e694548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\adt-bundle-windows-x86_64-20140702\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_e8001f7e1bbcc347eda81995b10b11789a5b640f\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -52,44 +70,26 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="e3608152f7b230c81c524294af079ed6948d4282">
+        sha1="d3f58fd146b8693fd69e69ea5aa7b7f804a6fd5b">
         <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9e5f0e73f2ea88bff2eed8131866be7470638c76\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\Android\adt-bundle-windows-x86_64-20140702\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_0452e790a3c3dd98fb4d9c529101a240336ec690\classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_53f7ceedb5f254b98a03ee5c506310b45b97742b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_92b5288049db036cb9ee19728147cdf271bbb337\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_c01f2a828ac4f9a7fcd7a8049a707f41fd85218f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_f5320fe4da8d5ecc88485c274e2a164c84bb7f2b\classes.dex" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="I:\repos\Udacity\Nanodegrees\AndroidBasics\MiwokApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_c024da9ff83023d682cf3053d736bda2e41ce019\classes.dex" />
     </item>
 
 </items>
